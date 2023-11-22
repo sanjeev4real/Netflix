@@ -291,6 +291,7 @@ nav .select {
     color: white;
     border: none;
     font-size: 21px;
+    font-weight: bold;
     cursor: pointer;
     transition: all ease 0.5s;
 }
@@ -337,6 +338,7 @@ footer .footer-list ul li{
 .footer-list .select {
     border: 1px solid rgb(173, 173, 173);
     border-radius: 5px;
+    background-color: #0f0f0f;
     color: white;
     padding: 8px 10px;
     width: 9%;
@@ -345,7 +347,7 @@ footer .footer-list ul li{
 
 .footer-list .select select {
     font-size: 14px;
-    background-color: #0F0F0F;
+    background-color: transparent;
     color: white;
     border: none;
     font-weight: bold;
